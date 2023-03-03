@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fypapi-275115",
+  "private_key_id": "1487f536b9fcf1652f901ade1bec7fe7b1a759b4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC/Z3Y7ZftTK5W3\nytFDxktUsZHzMYgZzDB0kuJuHqwX6kxIjMPtk8DFSMak59rupX48fjoEC5cfnBLE\ndqP2OyyZH1RIiTE+mXjJHFV2OSrfETNnRnBqq/Y9DbP50BvyPIWQHE9HwR8L83Yo\nlMeigYIuspMe029u/WhYty5HoH9Z80EZ3F9XL24gprPSibjgj359dxnxxZYf17y/\naUzv32KyOkBaKsTzgapaf0Yf2TK329a3o3URRGN7WbTQJLWMPcDHEecfsPOqj/P7\njoHqlM/tFqtDM5NJkH+eQA7LdyZtLyz1kKP4fTlKIFcmv3GRTRQXNciQaTIeyNtV\nhWv40VuJAgMBAAECggEADsY69V9MHNGksyTr7c4Y4v7469uDLLCa/eiXo1XpRUhP\n3prFBenti5zwPmrqNpkeKye4LTdC0U0QEsuwoNFVAjXNoPK8Ex+wF+AAxckoYsMW\nY26nv0gqT/Cml44llhdvXN4ejYSd86N1l7DSTxwtkxK0MgEynQ/g9dYf86XzJpty\n2oN4dvyuNhtxh/JANzP4Juc5vT2PcNn+a8Ixw0gvxqUPdecVzRAt9C4qzWe/kDg2\nCY07KMpIhK8iMn+6ceKL82c+gvJs8X7hahMFlWgcYUf2EvYSAE1CyLLqHEjFqZj9\ng7HZ2NZdnbxU3zlAeUrxjnhdnLlpaAnBiCP/Y6proQKBgQDfR6BbY82gWa+XpEjn\nnXmXbMPv88dIInxaeo9FnC1gwAG3T4F+cveJ3f9iegcuu8JWmrc+2psWIAk5W7DH\nL6cUW8x3NKZ/a1Ccl5nbR0KcirXWtStDUqcf96jdcDJxnnCfF2l5Tf+HFohgRLAP\nvHlPM4pZQnUY2nYXD5OMC/IRkQKBgQDbdAQfdPZiQ5+x5vyOIudg10TZiARePQwS\nSXnqTlIyLoAJD/9u9B+NFHYfj5OlYS7BHW2F7bdxhBHADnLlgz0l800iLbd0Q4HX\nZikE/s5IhHtN4plzVNwiz/0Ie4xD1nD4bvEa+AH34UleZ/5eZoyzkvIDMbbpASln\n6TV+oM8ueQKBgFDBIB9NpnZDWb23vmJ+0xZQUUF84uuVBXLX9u+PP95JM5WwHL62\nKA9mClL8nZJqeCxIgtQpzoOfDJcBMZupAX3cgcPvd/SHxL0OG6hySoZBqOjB16be\nwvFN6nZEeQoc6tCvcAdejXe3T5W54g+e9CUQGA6WebGGecV3bb7uJxvxAoGBAM1u\nz6U68qKON2JsnyPXnM3U9wjEAYLOlwxPaCdk5iE/0m+pYC7XrOl+rA1jdI2uafwx\ntiNXoxBK1+r4G6qqroVmO2CxdzkJMPUZF3ErrqPIET2Z0Jhcai7UkURtk6K1jc+i\n22WpoP4REYOkykRIr5IzDwbadSWuBrrVX1SI6SnRAoGBAK6xJKhDbeKuw30G8ARq\nKShj5VFJB6KFKepbh8Ued54oI8vSzEku+ibzQgRYzVFrQQ/hhXVSYqBSIJMHME5H\nOXacIu35aAFviOnQBJwzI1N1Ry0PGW6yL2v2Lkba5cD9LwCJu0+JKjgYuimNpc5H\nnrm1W9As0XXtJbEs/dBC+ApP\n-----END PRIVATE KEY-----\n",
+  "client_email": "dronecords@fypapi-275115.iam.gserviceaccount.com",
+  "client_id": "105990254550383063936",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dronecords%40fypapi-275115.iam.gserviceaccount.com"
+}
